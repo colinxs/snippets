@@ -1,0 +1,55 @@
+#### Ads 
+
+# AdGuard Base
+# https://filters.adtidy.org/extension/ublock/filters/2.txt
+
+# AdGuard Mobile Ads 
+# https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+# EasyList 
+# https://easylist.to/easylist/easylist.txt
+
+
+#### Tracking
+
+# AdGuard Tracking Protection 
+# https://filters.adtidy.org/extension/ublock/filters/3.txt
+
+# AdGuard URL Tracking filter 
+# https://filters.adtidy.org/extension/ublock/filters/17.txt
+
+
+#### Social
+
+# AdGuard Social Media  
+# https://filters.adtidy.org/extension/ublock/filters/4.txt
+
+
+#### Annoyances
+
+# Adguard Annoyances
+# https://filters.adtidy.org/extension/ublock/filters/14.txt
+
+# Fanboy Annoyances
+# https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
+
+# EasyList Adblock Warning Removal List
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+# I don't care about cookies
+https://www.i-dont-care-about-cookies.eu/abp/
+
+
+#### Other 
+
+# Fanboy Anti-font trakcing
+# https://secure.fanboy.co.nz/fanboy-antifonts.txt
+
+# OISD Basic
+https://abp.oisd.nl/basic/
+
+# AdGuard Filter unblocking search ads and self-promotion
+https://filters.adtidy.org/extension/ublock/filters/10.txt
+
+# Fanboy Problematic 
+https://secure.fanboy.co.nz/fanboy-problematic-sites.txt
