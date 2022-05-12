@@ -2,3 +2,4 @@
 ! Description: Whitlisted domains in ADP Syntax
 @@||emjcd.com
 @@||conversantmedia.com
+@@||jdoqocy.com
