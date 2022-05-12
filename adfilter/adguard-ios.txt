@@ -18,6 +18,12 @@ https://filters.adtidy.org/ios/filters/3_optimized.txt
 # AdGuard URL Tracking filter 
 https://filters.adtidy.org/ios/filters/17_optimized.txt
 
+# EasyPrivacy
+https://easylist.to/easylist/easyprivacy.txt
+
+# Malicious URL Blocklist
+https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home
+
 
 #### Social
 
@@ -42,14 +48,12 @@ https://www.i-dont-care-about-cookies.eu/abp/
 
 #### Other 
 
-# Fanboy Anti-font trakcing
-# https://secure.fanboy.co.nz/fanboy-antifonts.txt
-
 # OISD Basic
 https://abp.oisd.nl/basic/
 
 # AdGuard Filter unblocking search ads and self-promotion
 https://filters.adtidy.org/extension/ublock/filters/10.txt
 
-# Fanboy Problematic 
-https://secure.fanboy.co.nz/fanboy-problematic-sites.txt
+# Actually Legitimate URL Shortener Tool
+https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt
+
