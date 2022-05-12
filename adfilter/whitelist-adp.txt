@@ -1,3 +1,1 @@
-@@|*.emjcd.com^$important
-@@|www.emjcd.com^$important
-@@||example.com^$document
+@@||emjcd.com^$important
