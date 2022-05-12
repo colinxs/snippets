@@ -1,0 +1,3 @@
+! Title: Personal Whitelist 
+! Description: Whitlisted domains in ADP Syntax
+@@||emjcd.com
