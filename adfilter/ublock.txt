@@ -10,7 +10,7 @@
 # https://easylist.to/easylist/easylist.txt
 
 
-#### Tracking
+#### Privacy 
 
 # AdGuard Tracking Protection 
 # https://filters.adtidy.org/extension/ublock/filters/3.txt
@@ -21,14 +21,11 @@
 # EasyPrivacy
 # https://easylist.to/easylist/easyprivacy.txt
 
-# Malicious URL Blocklist
-https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home
 
+#### Malware domains
 
-#### Social
-
-# AdGuard Social Media  
-# https://filters.adtidy.org/extension/ublock/filters/4.txt
+# Online Malicious URL Blocklist
+# https://curben.gitlab.io/malware-filter/urlhaus-filter-online.txt
 
 
 #### Annoyances
@@ -36,20 +33,20 @@ https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home
 # Adguard Annoyances
 # https://filters.adtidy.org/extension/ublock/filters/14.txt
 
-# Fanboy Annoyances
-# https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
-
-# EasyList Adblock Warning Removal List
-https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-
-# I don't care about cookies
-https://www.i-dont-care-about-cookies.eu/abp/
+# AdGuard Social Media  
+# https://filters.adtidy.org/extension/ublock/filters/4.txt
 
 # EasyList Cookies 
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+# https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 
 #### Other 
+
+# 1Hosts (mini)
+https://o0.pages.dev/mini/adblock.txt
+
+# EasyList Adblock Warning Removal List
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 # OISD Basic
 https://abp.oisd.nl/basic/
@@ -57,5 +54,5 @@ https://abp.oisd.nl/basic/
 # AdGuard Filter unblocking search ads and self-promotion
 https://filters.adtidy.org/extension/ublock/filters/10.txt
 
-# Actually Legitimate URL Shortener Tool
-https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt
+# Personal Whitelist
+https://raw.githubusercontent.com/colinxs/snippets/main/adfilter/whitelist/adguard.txt
